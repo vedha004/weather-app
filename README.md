@@ -14,10 +14,11 @@ Before you begin, ensure you have the following installed on your machine:
 
 ## Setup Instructions
 
-1. **Unzip the file**
+1. **Clone**
 2. **If you are using command-line interface:**
    mvn spring-boot:run
-3. **Open your Postman or any other API platform tool**
+3.**If using ide import the project and run WeatherInformationApplication**
+4. **Open your Postman or any other API platform tool**
 
 # Weather Service API
 
